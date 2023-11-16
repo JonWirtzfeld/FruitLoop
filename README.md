@@ -7,8 +7,8 @@ FruitLoop is a simple program that defines a base class `Fruit` and several sub-
 ## Getting Started
 To compile FruitLoop on Ubuntu, run the following command:
 
-`g++ -o bin/FruitLoop main.cpp`
+`g++ -o FruitLoop main.cpp`
 
 and run with:
 
-`./bin/FruitLoop`
+`./FruitLoop`
